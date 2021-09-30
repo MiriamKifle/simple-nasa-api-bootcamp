@@ -1,22 +1,15 @@
 # 🚀 Project: Simple NASA API
 
-### Goal: Enable your user to enter a date and return the picture/video of the day from NASA's API
+<p align=center> 
+<img src="https://github.com/MiriamKifle/simple-nasa-api-bootcamp/blob/answer/imge.png" width="700">
+</p> 
 
-### How to submit your code for review:
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!]()
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Languages used 
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+Html, CSS, Javascript
+
+## Lessons Learned
+
+I created this using the picture of the day NASA API. Functionally it is created to allow users to enter a date and return the picture of the day from NASA's API. This was my first time working with API's. As a result the learning curve on this project was steep for me. 
